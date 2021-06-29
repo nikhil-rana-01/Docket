@@ -5,15 +5,15 @@ A basic to-do list app in Mern Stack
 
 ### Today Page
 <br/>
-<p>
-  <img align="center" src="/images/1.png" width="900"  />
+<p align="center">
+  <img src="/images/1.png" width="900"  />
 </p>
 <hr/>
 
 ### Work Page
 <br/>
-<p>
-  <img align="center" src="/images/3.png" width="900"  />
+<p align="center">
+  <img src="/images/3.png" width="900"  />
 </p>
 <hr/>
 
