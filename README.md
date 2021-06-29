@@ -6,14 +6,14 @@ A basic to-do list app in Mern Stack
 ### Today Page
 <br/>
 <p>
-  <img src="/images/1.png" width="650"  />
+  <img src="/images/1.png" width="700"  />
 </p>
 <hr/>
 
 ### Work Page
 <br/>
 <p>
-  <img src="/images/3.png" width="650"  />
+  <img src="/images/3.png" width="700"  />
 </p>
 <hr/>
 
