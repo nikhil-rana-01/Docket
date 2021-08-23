@@ -1,5 +1,5 @@
-# Todo_list
-A basic to-do list app in Mern Stack
+# Docket
+A basic app in Mern Stack to make list of tasks.
 
 ## Screenshots
 
